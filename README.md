@@ -6,7 +6,7 @@ Estudante e Desenvolvedor,
 Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado por tecnologia. Neste espaço, compartilho meus projetos e aprendizados, buscando contribuir para a comunidade e expandir meus horizontes no mundo da programação.
 
 - 🔭 Atualmente estou estudando no SENAI Informatica
-- 📫 Fale comigo:
+- 📫 Estou sempre aberto(a) a discussões, colaborações e feedback construtivo. Se você tiver alguma pergunta, sugestão ou apenas quiser dizer "oi", sinta-se à vontade para entrar em contato comigo através dos seguintes canais:
 <br><br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloferreiralopes/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:murilo.lopes5@fatec.sp.gov.br)
 - 😄 Pronomes: Ele/Dele
@@ -16,7 +16,7 @@ Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado
 <h2>💬 O que você encontrará aqui?</h2>
 <center><img src="https://github.com/Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes/assets/67995781/cc17884b-30ea-4372-80b5-587620f49a29" height="100px"></center><br>
 
- Neste repositório, você encontrará uma variedade de projetos e códigos que refletem minha jornada de aprendizado e exploração no universo da programação. Abra os projetos que mais lhe interessam, explore o código-fonte e sinta-se à vontade para utilizar qualquer parte do que encontrar aqui.
+ Neste repositório, você encontrará uma variedade de projetos e códigos que refletem minha jornada de aprendizado e exploração no universo da programação. Abra os projetos que mais lhe interessam, explore o código-fonte e sinta-se à vontade para utilizar qualquer parte do que encontrar aqui.💪🏻
  
 <h2>🛠 Contribuições</h2>
 <center><img src="https://github.com/Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes/assets/67995781/0c0427a4-b24a-4a91-869b-c3d31c3e99b4)" height="100px"></center><br>
