@@ -14,7 +14,7 @@ Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo-Ferreira-Lopes&count_private=true&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/Murilo-Ferreira-Lopes/github-readme-stats)
 
 <h2>💬 O que você encontrará aqui?</h2>
-<br><center><img src="https://github.com/Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes/assets/67995781/8a69cedc-4955-4af9-8f69-8e302d398fc4" height="100px"></center><br><br><br>
+<br><center><img src="https://github.com/Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes/assets/67995781/45db7ca6-17c4-44aa-a235-41e12a8e9108" height="100px"></center><br><br><br>
 
  Neste repositório, você encontrará uma variedade de projetos e códigos que refletem minha jornada de aprendizado e exploração no universo da programação. Abra os projetos que mais lhe interessam, explore o código-fonte e sinta-se à vontade para utilizar qualquer parte do que encontrar aqui.
  
