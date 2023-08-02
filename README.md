@@ -18,7 +18,7 @@ Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado
 
  Neste repositório, você encontrará uma variedade de projetos e códigos que refletem minha jornada de aprendizado e exploração no universo da programação. Abra os projetos que mais lhe interessam, explore o código-fonte e sinta-se à vontade para utilizar qualquer parte do que encontrar aqui.
  
-<h3>🛠 Contribuições</h3>
+<h2>🛠 Contribuições</h2>
 <center><img src="https://github.com/Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes/assets/67995781/0c0427a4-b24a-4a91-869b-c3d31c3e99b4)" height="100px"></center><br>
  
  Se você acha algum erro ou tem ideias de melhorias para qualquer um dos meus projetos, sinta-se à vontade para abrir um pull request ou criar uma issue. Toda contribuição é bem-vinda! 😉
