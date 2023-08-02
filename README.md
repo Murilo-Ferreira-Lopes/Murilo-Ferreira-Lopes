@@ -17,7 +17,7 @@ Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado
 
 <h2>Contribuições</h2>
  Se você acha algum erro ou tem ideias de melhorias para qualquer um dos meus projetos, sinta-se à vontade para abrir um pull request ou criar uma issue. Toda contribuição é bem-vinda! 
-  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FManulMax%2F2d20af60d709805c55fd784ca7cba4b9&psig=AOvVaw3vrNwwE98PE6ea-_vJPbmn&ust=1691035946745000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCn84eOvYADFQAAAAAdAAAAABAw" height="30px">
 <!--
 **Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
