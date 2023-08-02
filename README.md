@@ -4,10 +4,10 @@
 
 Estudante e Desenvolvedor, 
 
-Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado por tecnologia. Neste espaço, compartilho meus projetos e aprendizados, buscando contribuir para a comunidade e expandir meus horizontes no mundo da programação.
-Atualmente, sou estudante, buscando aprimorar meu conhecimento e habilidades em diversas áreas da tecnologia. Meu foco principal está em desenvolvimento web, mas estou sempre aberto a explorar outras áreas e aprender novas linguagens e tecnologias.
+Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado por tecnologia. Neste espaço, compartilho meus projetos e aprendizados, buscando contribuir para a comunidade e expandir meus horizontes no mundo da programação. Atualmente, sou estudante, buscando aprimorar meu conhecimento e habilidades em diversas áreas da tecnologia. Meu foco principal está em desenvolvimento web, mas estou sempre aberto a explorar outras áreas e aprender novas linguagens e tecnologias.
 
-- 🔭 Atualmente estou estudando no SENAI Informatica
+- 🔭 Atualmente estou estudando no SENAI Informatica "Paulo Skaf" e Terminando uma graduação na FATEC de São Caetano do Sul
+
 - 📫 Estou sempre aberto(a) a discussões, colaborações e feedback construtivo. Se você tiver alguma pergunta, sugestão ou apenas quiser dizer "oi", sinta-se à vontade para entrar em contato comigo através dos seguintes canais:
 <br><br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muriloferreiralopes/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:murilo.lopes5@fatec.sp.gov.br)
