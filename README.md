@@ -15,8 +15,8 @@ Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Ferreira-Lopes&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/Murilo-Ferreira-Lopes/github-readme-stats)
 
-<h2>Contribuições</h2>
+<h2>🛠 Contribuições</h2>
 <br><center><img src="https://github.com/Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes/assets/67995781/0c0427a4-b24a-4a91-869b-c3d31c3e99b4)" height="100px"></center><br><br><br>
  
- Se você acha algum erro ou tem ideias de melhorias para qualquer um dos meus projetos, sinta-se à vontade para abrir um pull request ou criar uma issue. Toda contribuição é bem-vinda! 
+ Se você acha algum erro ou tem ideias de melhorias para qualquer um dos meus projetos, sinta-se à vontade para abrir um pull request ou criar uma issue. Toda contribuição é bem-vinda! 😉
   
