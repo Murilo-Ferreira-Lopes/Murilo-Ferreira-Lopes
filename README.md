@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Murilo Ferreira!
-<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="left">Bem-vindo(a) ao meu GitHub!<img src="https://github.com/Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes/assets/67995781/7c465ec3-1fa8-4afe-a879-03b2f48c2ee4" height="200px"><br><br></h1>
 
 Estudante e Desenvolvedor, 
 
