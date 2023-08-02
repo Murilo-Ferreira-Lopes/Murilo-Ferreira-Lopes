@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Murilo Ferreira!
-<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Me chamo Murilo Ferreira, e esse é o meu perfil no Git!</h1
+<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>Bem-vindo(a) ao meu GitHub!</h1
 
 Estudante e Desenvolvedor, 
 
@@ -13,9 +13,7 @@ Olá! Meu nome é Murilo Ferreira, e sou um desenvolvedor e estudante apaixonado
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilo-Ferreira-Lopes&count_private=true&show_icons=true&theme=transparent&locale=pt-br)](https://github.com/Murilo-Ferreira-Lopes/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Ferreira-Lopes&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/Murilo-Ferreira-Lopes/github-readme-stats)
   
-
 <!--
 **Murilo-Ferreira-Lopes/Murilo-Ferreira-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
